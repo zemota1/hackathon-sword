@@ -1,6 +1,10 @@
 *.csv
 *.tsv
 
+.DS_Store
+
+*.db 
+
 config.py
 
 # Byte-compiled / optimized / DLL files
